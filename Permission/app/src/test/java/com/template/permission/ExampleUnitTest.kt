@@ -1,4 +1,4 @@
-package com.ssafy.permission
+package com.template.permission
 
 import org.junit.Test
 

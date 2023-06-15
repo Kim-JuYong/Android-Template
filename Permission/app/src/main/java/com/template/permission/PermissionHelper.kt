@@ -1,10 +1,12 @@
-package com.ssafy.permission
+package com.template.permission
 
 import android.app.Activity
 import android.content.pm.PackageManager
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
 import androidx.lifecycle.MutableLiveData
+
+private const val TAG = "PermissionHelper"
 
 class PermissionHelper(private val activity: Activity) {
 

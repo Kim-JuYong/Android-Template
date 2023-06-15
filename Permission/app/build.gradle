@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.ssafy.permission'
+    namespace 'com.template.permission'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.ssafy.permission"
+        applicationId "com.template.permission"
         minSdk 24
         targetSdk 33
         versionCode 1

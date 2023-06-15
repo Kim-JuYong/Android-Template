@@ -1,10 +1,11 @@
-package com.ssafy.permission
+package com.ssafy.myapplication
 
 import android.Manifest
 import android.content.pm.PackageManager
 import android.os.Bundle
 import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
+import com.template.permission.PermissionHelper
 
 private const val TAG = "MainActivity"
 
